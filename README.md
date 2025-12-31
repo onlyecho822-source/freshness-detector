@@ -359,7 +359,7 @@ If you use Freshness Detector in academic work, please cite:
 ## Acknowledgments
 
 Built with insights from:
-- Echo Universe temporal integrity research
+- Temporal integrity research in AI systems
 - Data quality engineering best practices
 - ML operations (MLOps) community feedback
 
@@ -370,6 +370,6 @@ Built with insights from:
 
 ---
 
-**Made with ❤️ by [Infrastructure Observatory](https://github.com/onlyecho822-source/infrastructure-observatory)**
+**Research by [Infrastructure Observatory](https://github.com/onlyecho822-source/infrastructure-observatory)**
 
 *Keeping AI models honest, one timestamp at a time.*
