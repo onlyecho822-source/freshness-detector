@@ -1,0 +1,111 @@
+name: Share Your Use Case
+description: Tell us how you're using Freshness Detector
+title: "[USE CASE] "
+labels: ["use-case", "feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We'd love to hear how you're using Freshness Detector! This helps us improve the tool and understand real-world applications.
+
+  - type: input
+    id: organization
+    attributes:
+      label: Organization (Optional)
+      description: What company/institution are you with?
+      placeholder: "Acme Corp"
+
+  - type: dropdown
+    id: industry
+    attributes:
+      label: Industry
+      description: What industry are you in?
+      options:
+        - AI/ML Research
+        - Enterprise AI
+        - Healthcare/Medical AI
+        - Financial Services
+        - Education/Academic
+        - Government/Public Sector
+        - Startup
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem You're Solving
+      description: What specific problem led you to use Freshness Detector?
+      placeholder: "We were experiencing model drift due to stale training data..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: How You're Using It
+      description: How have you integrated Freshness Detector into your workflow?
+      placeholder: "We run it in our CI/CD pipeline before model training..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: dataset_size
+    attributes:
+      label: Dataset Size
+      description: Approximate size of datasets you're checking
+      options:
+        - "< 1K entries"
+        - "1K - 10K entries"
+        - "10K - 100K entries"
+        - "100K - 1M entries"
+        - "> 1M entries"
+
+  - type: dropdown
+    id: data_type
+    attributes:
+      label: Primary Data Type
+      description: What kind of data are you checking?
+      options:
+        - News/Current Events
+        - Scientific/Research Data
+        - Code/Documentation
+        - Medical/Healthcare Data
+        - Financial/Market Data
+        - Social Media Content
+        - Mixed/Multiple Types
+        - Other
+
+  - type: textarea
+    id: results
+    attributes:
+      label: Results/Impact
+      description: What results have you seen? Any metrics you can share?
+      placeholder: "Reduced model hallucinations by 30%..."
+
+  - type: checkboxes
+    id: features
+    attributes:
+      label: Features You Use
+      description: Which features are most valuable to you?
+      options:
+        - label: CLI tool
+        - label: Python API
+        - label: Batch checking
+        - label: Custom decay policies
+        - label: Dataset analysis
+
+  - type: textarea
+    id: improvements
+    attributes:
+      label: Suggested Improvements
+      description: What would make this tool more valuable for your use case?
+
+  - type: checkboxes
+    id: contact
+    attributes:
+      label: Follow-up
+      description: Can we contact you for more details?
+      options:
+        - label: Yes, you can reach out for a deeper conversation
