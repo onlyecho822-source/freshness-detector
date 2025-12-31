@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+freshness_detector/__init__.py
+freshness_detector/cli.py
+freshness_detector/core.py
+freshness_detector.egg-info/PKG-INFO
+freshness_detector.egg-info/SOURCES.txt
+freshness_detector.egg-info/dependency_links.txt
+freshness_detector.egg-info/entry_points.txt
+freshness_detector.egg-info/not-zip-safe
+freshness_detector.egg-info/requires.txt
+freshness_detector.egg-info/top_level.txt

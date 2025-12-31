@@ -1,0 +1,72 @@
+[
+  {
+    "id": "medical_covid_2022",
+    "text": "COVID-19 treatment guidelines recommend remdesivir for hospitalized patients",
+    "timestamp": "2022-06-15T00:00:00Z",
+    "confidence": 0.95,
+    "source": "CDC Guidelines 2022"
+  },
+  {
+    "id": "python_312_features",
+    "text": "Python 3.12 introduces improved error messages and f-string debugging",
+    "timestamp": "2025-10-01T00:00:00Z",
+    "confidence": 0.98,
+    "source": "Python Documentation"
+  },
+  {
+    "id": "old_news_2020",
+    "text": "Breaking: WHO declares COVID-19 a global pandemic",
+    "timestamp": "2020-03-11T00:00:00Z",
+    "confidence": 0.90,
+    "source": "News Archive"
+  },
+  {
+    "id": "ai_training_gpt3",
+    "text": "GPT-3 is the largest language model with 175B parameters",
+    "timestamp": "2021-06-01T00:00:00Z",
+    "confidence": 0.92,
+    "source": "OpenAI Blog"
+  },
+  {
+    "id": "historical_fact",
+    "text": "The Apollo 11 mission landed on the moon on July 20, 1969",
+    "timestamp": "1969-07-20T00:00:00Z",
+    "confidence": 1.00,
+    "source": "NASA Archives"
+  },
+  {
+    "id": "recent_ai_news",
+    "text": "New transformer architecture achieves state-of-the-art results on GLUE benchmark",
+    "timestamp": "2025-11-15T00:00:00Z",
+    "confidence": 0.88,
+    "source": "ArXiv Preprint"
+  },
+  {
+    "id": "financial_data_2024",
+    "text": "S&P 500 closes at record high of 4,800 points",
+    "timestamp": "2024-01-15T00:00:00Z",
+    "confidence": 0.95,
+    "source": "Market Data"
+  },
+  {
+    "id": "code_example_react",
+    "text": "React class components are the recommended way to manage state",
+    "timestamp": "2018-06-01T00:00:00Z",
+    "confidence": 0.90,
+    "source": "React Documentation Archive"
+  },
+  {
+    "id": "scientific_fact",
+    "text": "The speed of light in vacuum is approximately 299,792,458 meters per second",
+    "timestamp": "2010-01-01T00:00:00Z",
+    "confidence": 1.00,
+    "source": "Physics Textbook"
+  },
+  {
+    "id": "social_media_trend",
+    "text": "The 'ice bucket challenge' is trending on social media",
+    "timestamp": "2014-08-01T00:00:00Z",
+    "confidence": 0.85,
+    "source": "Social Media Archive"
+  }
+]
