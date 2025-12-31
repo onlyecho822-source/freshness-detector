@@ -17,11 +17,11 @@ setup(
     description="Detect stale training data for AI models using temporal decay",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/infrastructure-observatory/freshness-detector",
+    url="https://github.com/onlyecho822-source/freshness-detector",
     project_urls={
-        "Bug Reports": "https://github.com/infrastructure-observatory/freshness-detector/issues",
-        "Source": "https://github.com/infrastructure-observatory/freshness-detector",
-        "Documentation": "https://github.com/infrastructure-observatory/freshness-detector#readme",
+        "Bug Reports": "https://github.com/onlyecho822-source/freshness-detector/issues",
+        "Source": "https://github.com/onlyecho822-source/freshness-detector",
+        "Documentation": "https://github.com/onlyecho822-source/freshness-detector#readme",
     },
     packages=find_packages(exclude=["tests", "tests.*", "examples", "docs"]),
     classifiers=[

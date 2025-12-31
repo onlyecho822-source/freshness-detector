@@ -299,7 +299,7 @@ Contributions welcome! Please:
 **Development setup:**
 
 ```bash
-git clone https://github.com/infrastructure-observatory/freshness-detector.git
+git clone https://github.com/onlyecho822-source/freshness-detector.git
 cd freshness-detector
 pip install -e ".[dev]"
 pytest
@@ -322,7 +322,7 @@ If you use Freshness Detector in academic work, please cite:
   author = {Infrastructure Observatory},
   title = {Freshness Detector: Temporal Decay Modeling for AI Training Data},
   year = {2025},
-  url = {https://github.com/infrastructure-observatory/freshness-detector}
+  url = {https://github.com/onlyecho822-source/freshness-detector}
 }
 ```
 
@@ -330,8 +330,8 @@ If you use Freshness Detector in academic work, please cite:
 
 ## Support
 
-- 🐛 **Bug reports:** [GitHub Issues](https://github.com/infrastructure-observatory/freshness-detector/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/infrastructure-observatory/freshness-detector/discussions)
+- 🐛 **Bug reports:** [GitHub Issues](https://github.com/onlyecho822-source/freshness-detector/issues)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/onlyecho822-source/freshness-detector/discussions)
 - 📧 **Email:** research@infrastructure-observatory.org
 
 ---
